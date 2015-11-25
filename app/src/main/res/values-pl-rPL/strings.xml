@@ -1,0 +1,10 @@
+<resources>
+    <string name="vertical">Pionowo</string>
+    <string name="next">Następny</string>
+    <string name="actions">Akcje</string>
+    <string name="app_name"></string>
+    <string name="message">Wiadomość</string>
+    <string name="great">Brawo!</string>
+    <string name="horizontal_lover">Witaj zwolenniku poziomu!</string>
+    <string name="vertical_lover">Witaj zwolenniku pionu!</string>
+</resources>
