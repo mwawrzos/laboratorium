@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laborka</string>
+    <string name="vertical">Vertical</string>
+    <string name="next">Next</string>
+    <string name="actions">Actions</string>
+    <string name="message">Message</string>
+    <string name="vertical_lover">Hello vertical follower!</string>
+    <string name="horizontal_lover">Hello horizontal follower!</string>
+    <string name="great">Congratulations!</string>
+</resources>
